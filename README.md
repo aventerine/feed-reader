@@ -9,11 +9,7 @@ Part of Udacity's Frontend Nanodegree.
 
 ##Tests written
 There are 4 different test suites implemented:
-1. RSS Feeds
-    Tests that feeds are loaded, named, and linked properly.
-2. The Menu
-    Tests that the menu opens and closes and is hidden by default.
-3. Initial Entries
-    Tests that entries are loaded properly.
-4. New Feed Selection
-    Tests that feeds load correctly and that display changes when a new feed is chosen.
+1. RSS Feeds - Tests that feeds are loaded, named, and linked properly.
+2. The Menu - Tests that the menu opens and closes and is hidden by default.
+3. Initial Entries - Tests that entries are loaded properly.
+4. New Feed Selection - Tests that feeds load correctly and that display changes when a new feed is chosen.
