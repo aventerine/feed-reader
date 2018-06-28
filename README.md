@@ -1,7 +1,5 @@
 #Feed Reader
 
-Part of Udacity's Frontend Nanodegree.
-
 ##How to use
 1. Download or clone this repository.
 2. Navigate to folder named feed_reader.
