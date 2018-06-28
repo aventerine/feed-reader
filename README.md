@@ -8,7 +8,6 @@ Part of Udacity's Frontend Nanodegree.
 3. Open index.html in a browser.
 
 ##Tests written
-There are 4 different test suites implemented:
 1. RSS Feeds - Tests that feeds are loaded, named, and linked properly.
 2. The Menu - Tests that the menu opens and closes and is hidden by default.
 3. Initial Entries - Tests that entries are loaded properly.
