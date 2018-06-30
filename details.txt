@@ -21,4 +21,4 @@ Review the Feed Reader Testing Project Rubric
 18. COMPLETED Callbacks should be used to ensure that feeds are loaded before they are tested.
 19. Implement error handling for undefined variables and out-of-bound array access.
 20. COMPLETED When complete - all of your tests should pass.
-21. Write a README file detailing all steps required to successfully run the application. If you have added additional tests (for Udacious Test Coverage), provide documentation for what these future features are and what the tests are checking for.
+21. COMPLETED Write a README file detailing all steps required to successfully run the application. If you have added additional tests (for Udacious Test Coverage), provide documentation for what these future features are and what the tests are checking for.
